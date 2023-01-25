@@ -1,4 +1,4 @@
 # Test
 
 ## Image
-![Ginsekatze](download(1).jpeg)
+![Ginsekatze](Grinskatze.jpeg)
