@@ -8,8 +8,8 @@ more information about this project [here](https://google.com)
 
 
 ## emojis
-:smile:
-:book:
+:smile:  
+:book:  
 
-✈️
+✈️  
 👽
