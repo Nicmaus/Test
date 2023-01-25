@@ -18,3 +18,6 @@ more information about this project [here](https://google.com)
 ## checkboxes
 - [X] Git and Github
 - [ ] CSS
+- [ ] HTML
+- [X] JavaScript
+-  
