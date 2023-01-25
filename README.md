@@ -21,3 +21,10 @@ more information about this project [here](https://google.com)
 - [ ] HTML
 - [X] JavaScript
 -  
+
+
+## tabels
+| HTML | CSS | 
+| ---- | --- |
+| 4 weeks | 6weeks |
+| easy | normal |
